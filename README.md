@@ -1,2 +1,2 @@
 NETFLİX_CLONE
-netfixte bir film izleme repositorysidir
+netfixte bir film izleme projesidir
